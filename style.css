@@ -19,7 +19,7 @@ p {
 }
 
 body{
-    background-image: url("/TONY/assets/topography.png");
+    background-image: url("assets/topography.png");
     background-size: contain;
     margin: 0px;
 }
